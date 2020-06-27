@@ -30,7 +30,7 @@ const useStyles = makeStyles((theme) => ({
     float: "bottom",
   },
   root: {
-    height: "100vh",
+    height: "90vh",
     display: "flex",
     flexDirection: "column",
   },
