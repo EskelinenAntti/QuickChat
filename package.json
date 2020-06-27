@@ -1,0 +1,20 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm i && npm run build && cd ../backend && npm i",
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EskelinenAntti/QuickChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EskelinenAntti/QuickChat/issues"
+  },
+  "homepage": "https://github.com/EskelinenAntti/QuickChat#readme"
+}
